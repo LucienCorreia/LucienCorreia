@@ -4,3 +4,5 @@ Já atuei em prejetos de âmbito internacional como desenvolvedor e tech lead.
 Brinco com o Flutter desde a primeira versão dele, com o Laravel desde a versão 4 e com código desde meados de 2014. 
 
 PS: meu gerenciador de estado preferido é o BLoC :)
+
+[CV online feito com VueJS](https://luciencorreia.github.io/cv_vuejs/) (talvez eu faça uma outra versão em flutter 👀)

@@ -12,22 +12,5 @@ PS: meu gerenciador de estado preferido é o BLoC :)
 ![](https://skills.thijs.gg/icons?i=js,html,css,flutter,dart,laravel,php,docker,kubernetes,vue,angular,git,github,gitlab)
 
 
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/LucienCorreia"> <img src="https://komarev.com/ghpvc/?username=LucienCorreia&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
+
+<a href="https://github.com/LucienCorreia"> <img src="https://komarev.com/ghpvc/?username=LucienCorreia&style=for-the-badge&color=brightgreen"> </a>

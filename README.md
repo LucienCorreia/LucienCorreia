@@ -9,7 +9,7 @@ PS: meu gerenciador de estado preferido é o BLoC :)
 
 [CV online feito com VueJS](https://luciencorreia.github.io/cv_vuejs/) (talvez eu faça uma outra versão em flutter 👀)  
   
-![](https://skills.thijs.gg/icons?i=js,html,css,flutter,dart,laravel,php,docker,kubernetes,vue,angular,git,github,gitlab)
+![](https://skills.thijs.gg/icons?i=js,html,css,flutter,dart,laravel,php,docker,kubernetes,vue,angular,postgres,mysql,git,github,gitlab)
 
 
 

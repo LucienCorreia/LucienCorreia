@@ -11,6 +11,6 @@ PS: meu gerenciador de estado preferido é o BLoC :)
   
 ![](https://skills.thijs.gg/icons?i=linux,flutter,dart,laravel,php,docker,kubernetes,vue,angular,postgres,mysql,jenkins)
 
-
+Tem algum projeto que quer tirar do papel ou precise de alguma manutenção? Me contate pelo [linkedin](https://linkedin.com/in/lucien-correia)!
 
 <a href="https://github.com/LucienCorreia"> <img src="https://komarev.com/ghpvc/?username=LucienCorreia&style=for-the-badge&color=brightgreen"> </a>

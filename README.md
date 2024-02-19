@@ -4,13 +4,9 @@ A especialidade aqui é com Dart, Flutter, PHP e Laravel mas me garanto também 
 Já atuei em prejetos de âmbito internacional como desenvolvedor e tech lead. 
 
 Brinco com o Flutter desde a primeira versão dele, com o Laravel desde a versão 4 e com código desde meados de 2014. 
-
-PS: meu gerenciador de estado preferido é o BLoC :)
-
-[CV online feito com VueJS](https://luciencorreia.github.io/cv_vuejs/) (talvez eu faça uma outra versão em flutter 👀)  
   
-![](https://skills.thijs.gg/icons?i=linux,flutter,dart,laravel,php,docker,kubernetes,vue,angular,postgres,mysql,jenkins)
+![](https://skills.thijs.gg/icons?i=linux,flutter,dart,laravel,php,spring,java,docker,kubernetes,vue,angular,postgres,mysql,mongodb,redis,jenkins,github,gitlab)
 
-Tem algum projeto que quer tirar do papel ou precise de alguma manutenção? Me contate pelo [linkedin](https://linkedin.com/in/lucien-correia)!
+Tem algum projeto que quer tirar do papel ou precise de alguma manutenção? Me contate pelo [linkedin](https://linkedin.com/in/lucien-correia) ou por [email](mailto:contato@lucienrc.xyz)!
 
 <a href="https://github.com/LucienCorreia"> <img src="https://komarev.com/ghpvc/?username=LucienCorreia&style=for-the-badge&color=brightgreen"> </a>
